@@ -1,7 +1,8 @@
 tensorflow-gpu==1.14.0
+opencv-python==4.1.2.30
+scikit-image==0.16.2
 numpy
 Pillow
-opencv-python
 lmdb
 h5py
 requests
