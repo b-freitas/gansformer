@@ -1,4 +1,4 @@
-tensorflow-gpu==1.15.0
+tensorflow-gpu==1.15.5
 opencv-python==4.1.2.30
 scikit-image==0.16.2
 numpy==1.19.5
